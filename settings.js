@@ -18,19 +18,19 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['917025994178']
-global.premium = ['917025994178']
-global.ownernomer = '917025994178'
-global.ownername = 'Owner Name'
-global.botname = 'Bot Name'
+global.owner = ['919567979976']
+global.premium = ['919567979976']
+global.ownernomer = '919567979976'
+global.ownername = '𝙨𝙢𝙤𝙠𝙚𝙮'
+global.botname = '𝙈𝙧.𝙨𝙢𝙤𝙠𝙚𝙮 𝙗𝙤𝙩'
 global.caption = 'ғᴏʟʟᴏᴡ ᴍᴇ ɢɪᴛʜᴜʙ'
-global.footer = '© 𝙰𝙻𝙴𝙽𝙰 ™'
+global.footer = '© 𝙨𝙢𝙤𝙠𝙚𝙮 ™'
 global.ig = 'https://github.com/Afx-Abu'
 global.region = 'kerala'
 global.sc = 'https://github.com/Afx-Abu/Alena-MD'
 global.myweb = 'https://instagram.com/jsl._xr'
-global.packname = 'Alena'
-global.author = 'Jsl'
+global.packname = '𝑴𝑹.𝑺𝑴𝑶𝑲𝒀'
+global.author = '𝑴𝑹.𝑺𝑴𝑶𝑲𝒀'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
